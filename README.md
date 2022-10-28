@@ -1,5 +1,5 @@
 # Padronização de rotas
-Não há diferentes tipos de usuários, sendo que as rotas serão exatamente iguais.
+
 ## Login
 {main}/{login {token_acesso}}/{dashboard}/{index.html}
 ## Dashboard
